@@ -8,9 +8,7 @@ The portfolio is organized into four domains that represent the core dimensions 
 
 ## Start Here
 
-- [Leadership Portfolio Overview](Leadership%20Portfolio%20Overview.md)
 - [Start Here](Start%20Here.md)
-- [Leadership Portfolio Map](Leadership%20Portfolio%20Map.md)
 - [How I Lead](How%20I%20Lead.md)
 - [Leadership Principles](Leadership%20Principles.md)
 
