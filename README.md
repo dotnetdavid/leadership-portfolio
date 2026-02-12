@@ -8,10 +8,10 @@ The portfolio is organized into four domains that represent the core dimensions 
 
 ## Start Here
 
-- [Leadership Portfolio Overview](Leadership%20Portfolio/Leadership%20Portfolio%20Overview.md)
-- [Start Here](Leadership%20Portfolio/Start%20Here.md)
+- [Leadership Portfolio Overview](Leadership%20Portfolio%20Overview.md)
+- [Start Here](Start%20Here.md)
 - [Leadership Portfolio Map](Leadership%20Portfolio%20Map.md)
-- [How I Lead](Leadership%20Portfolio/How%20I%20Lead.md)
+- [How I Lead](How%20I%20Lead.md)
 - [Leadership Principles](Leadership%20Principles.md)
 
 These documents provide the narrative, structure, and philosophy behind the portfolio.
@@ -48,7 +48,7 @@ Folder: `Developer Experience/`
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This portfolio is intentionally:
 
@@ -61,6 +61,6 @@ It reflects my belief that effective leadership is built on clarity, empathy, an
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you'd like to connect, collaborate, or discuss any of these artifacts, feel free to reach out via LinkedIn or email.
