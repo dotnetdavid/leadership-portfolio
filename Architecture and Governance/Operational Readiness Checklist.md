@@ -1,0 +1,6 @@
+- [ ] Monitoring configured
+- [ ] Alerts validated
+- [ ] Runbooks updated
+- [ ] On-call aware
+- [ ] Logging in place
+- [ ] Dashboards updated

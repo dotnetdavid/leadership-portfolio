@@ -1,0 +1,7 @@
+- [ ] Readability
+- [ ] Tests included
+- [ ] Best Practices Evaluated
+- [ ] Maintainability considerations
+- [ ] Security considerations
+- [ ] Performance considerations
+- [ ] Documentation updated

@@ -1,0 +1,5 @@
+- [ ] IAM roles validated
+- [ ] Secrets managed securely
+- [ ] Encryption in place
+- [ ] Audit requirements met
+- [ ] Vulnerability scans passed
