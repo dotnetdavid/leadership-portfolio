@@ -36,4 +36,11 @@ A curated set of templates, frameworks, and artifacts that represent how I lead 
 - [Cross-Team Collaboration Charter](Leadership%20and%20Alignment/Cross-Team%20Collaboration%20Charter.md)
 - [Problem Statement Canvas](Leadership%20and%20Alignment/Problem%20Statement%20Canvas.md)
 - [Backlog Prioritization Rubric](Leadership%20and%20Alignment/Backlog%20Prioritization%20Rubric.md)
-- [Value vs Risk Assessment Grid](Leadership%20and%20Alignment/Value%20vs%20Risk
+- [Value vs Risk Assessment Grid](Leadership%20and%20Alignment/Value%20vs%20Risk%20Assessment%20Grid.md)
+
+## Developer Experience & Engineering Practices
+- [Local Dev Environment Spec](Developer%20Experience/Local%20Dev%20Environment%20Spec.md)
+- [CI-CD Pipeline Pattern](Delivery%20Frameworks/CI-CD%20Pipeline%20Pattern.md)
+- [Coding Standards and Review Checklist](Developer%20Experience/Coding%20Standards%20and%20Review%20Checklist.md)
+- [Migration Pattern Template](Developer%20Experience/Migration%20Pattern%20Template.md)
+- [Compatibility Layer Design Notes](Developer%20Experience/Compatibility%20Layer%20Design%20Notes.md)
